@@ -5,7 +5,7 @@
 - 💞️ I’m looking for a guide to help me through my journey. I do have friends also who are helping me and I would like to have someone new to critique my progress.
 - 📫 You can reach me on linkedin at @ayushrajarya (linkedin.com/in/ayushrajarya/)
 
-    If anyone has any suggestions or guidelines which you think will be helpful for me on my journey then please reach out to me through linkedin (I do not have a better way to connect right now). 
+    If anyone has any suggestions or guidelines which you think will be helpful for me on my journey then please reach out to me through linkedin @ayushrajarya (I do not have a better way to connect right now). 
 
 <!---
 ayushrajarya/ayushrajarya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
