@@ -4,6 +4,7 @@
       Later on my journey I would try to tech my self how to code in C (adding other programming languages under my belt is my other goal but not my priority).
 - 💞️ I’m looking for a guide to help me through my journey. I do have friends also who are helping me and I would like to have someone new to critique my progress.
 - 📫 You can reach me on linkedin at @ayushrajarya (linkedin.com/in/ayushrajarya/)
+- My geek for geeks profile is @ayushrajarya5 (auth.geeksforgeeks.org/user/ayushrajarya5/profile)
 
     If anyone has any suggestions or guidelines which you think will be helpful for me on my journey then please reach out to me through linkedin @ayushrajarya (I do not have a better way to connect right now). 
 
