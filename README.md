@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ayush and usually I get called by my surname Arya.
 - 👀 I’m interested in absolutely anything and everything.
 - 🌱 I’m currently trying to learning Visual Studio Code and then will head on to learn HTML and CSS to be able to write my own website (which is ayushrajarya.com (my current goal 😜)).
-      Later on my journey I would try to tech my self how to code in C (adding other programming languages under my belt is my other goal but not my priority).
+      Later on my journey I would try to tech my self how to code in a programming language.
 - 💞️ I’m looking for a guide to help me through my journey. I do have friends also who are helping me and I would like to have someone new to critique my progress.
 - 📫 You can reach me on linkedin at @ayushrajarya (linkedin.com/in/ayushrajarya/)
 - My geek for geeks profile is @ayushrajarya5 (auth.geeksforgeeks.org/user/ayushrajarya5/profile)
