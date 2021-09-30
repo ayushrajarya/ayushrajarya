@@ -1,2 +1,0 @@
-I know that there is something called coding or programming and apart from that I have done some code wrting in C in my first year in university and I also know names of some programming languages. This file is basically going to be my timeline and what I do (or did) to enter this world of programming.
-- Started to learn Visual Studio Code for a text editor to write programs on not going with an IDE might switch if need be. Reason for choosing VSS: I am starting with HTML and CSS first to become web developer so I do not need an IDE. (Date: July 28, 2021).
