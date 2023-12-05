@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ayush and usually I get called by my surname Arya.
+- 👋 Hi, I’m Ayush and usually people call me Arya.
 - 👀 I’m interested in absolutely anything and everything.
 - 🌱 I’m currently trying to learn how to code in a programming language. (thinking of learning python3)
 - 💞️ I’m looking for a guide to help me through my journey. I do have friends also who are helping me and I would like to have someone new to critique my progress.
